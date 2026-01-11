@@ -2,17 +2,17 @@
 
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Hello+World!+👋;I'm+Kakapo+RITHYHONG;Junior+Full-Stack+Developer;Passionate+Creator" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=Hello+World!+👋;I'm+RITHYHONG+AKA+kakapo;Junior+Frontend+Developer;Passionate+Creator" alt="Typing Animation" />
 </p>
 
 <!-- Profile Badges with Animation -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=7C3AED&style=flat" alt="Profile Views" />
-  <a href="https://github.com/yourusername?tab=followers">
-    <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social&color=7C3AED" alt="GitHub Followers">
+  <img src="https://komarev.com/ghpvc/?username=RITHYHONG&label=Profile%20Views&color=7C3AED&style=flat" alt="Profile Views" />
+  <a href="https://github.com/RITHYHONG?tab=followers">
+      <img src="https://img.shields.io/github/followers/RITHYHONG?label=Followers&style=social&color=7C3AED" alt="GitHub Followers">
   </a>
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/github/stars/yourusername?label=Stars&style=social&color=7C3AED" alt="GitHub Stars">
+  <a href="https://github.com/RITHYHONG">
+    <img src="https://img.shields.io/github/stars/RITHYHONG?label=Stars&style=social&color=7C3AED" alt="GitHub Stars">
   </a>
 </div>
 
@@ -56,25 +56,23 @@
 
     </td>
     <td width="50%" valign="top">
-
 ## **GitHub Stats**
 
 <div align="center">
 
-<!-- GitHub Stats with Animation -->
+<!-- Alternative Stats API -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RITHYHONG&show_icons=true&theme=radical&count_private=true&line_height=30&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED" alt="GitHub Stats" width="400" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RITHYHONG&theme=radical&row=2&column=4&margin-w=15&margin-h=15" alt="Trophies" />
 </p>
 
-<!-- Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RITHYHONG&theme=radical&hide_border=true&background=0d1117&stroke=7C3AED&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" alt="GitHub Streak" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RITHYHONG&theme=radical&show_icons=true" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RITHYHONG&theme=radical" width="400" />
 </p>
 
-<!-- Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RITHYHONG&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=ffffff" alt="Top Languages" width="400" />
-</p>
+</div>
+
+</div>
 
 </div>
 
