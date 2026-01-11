@@ -9,7 +9,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=RITHYHONG&label=Profile%20Views&color=7C3AED&style=flat" alt="Profile Views" />
   <a href="https://github.com/RITHYHONG?tab=followers">
-      <img src="https://img.shields.io/github/followers/RITHYHONG?label=Followers&style=social&color=7C3AED" alt="GitHub Followers">
+    <img src="https://img.shields.io/github/followers/RITHYHONG?label=Followers&style=social&color=7C3AED" alt="GitHub Followers">
   </a>
   <a href="https://github.com/RITHYHONG">
     <img src="https://img.shields.io/github/stars/RITHYHONG?label=Stars&style=social&color=7C3AED" alt="GitHub Stars">
@@ -28,8 +28,6 @@
 <br>
 
 <!-- Main Content Grid -->
-<div align="center">
-
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -52,29 +50,18 @@
 
 <br>
 
+<!-- Tech Stack -->
+## **🛠️ Tech Stack**
+<div align="left">
 
-
-    </td>
-    <td width="50%" valign="top">
-## **GitHub Stats**
-
-<div align="center">
-
-<!-- Alternative Stats API -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RITHYHONG&theme=radical&row=2&column=4&margin-w=15&margin-h=15" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RITHYHONG&theme=radical&show_icons=true" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RITHYHONG&theme=radical" width="400" />
-</p>
+**Frontend:** React, Vue.js, TypeScript, Tailwind CSS  
+**Backend:** Spring Boot, Laravel, Node.js  
+**Tools:** Git, Docker, VS Code, Postman  
+**Databases:** MySQL, MongoDB, PostgreSQL
 
 </div>
 
-</div>
-
-</div>
+  
 
 <br>
 
@@ -88,10 +75,6 @@
 **Contributing to open-source** projects
 
 </div>
-
-    </td>
-  </tr>
-</table>
 
 <br>
 
@@ -160,17 +143,13 @@
   <img src="https://profile-counter.glitch.me/RITHYHONG/count.svg" alt="Visitor Count" />
 </p>
 
-<!-- Animated Footer -->
+<!-- Developer Status (Fixed Code Block) -->
 <div align="center">
-  
+
+```javascript
 const developer = {
   name: "Kakapo RITHYHONG",
   role: "Full-Stack Developer",
   passion: "Building amazing web experiences",
   status: "Always learning 🚀"
 };
-
-<p align="center"> <i>✨ Thanks for visiting my profile! Have an awesome day! ✨</i> </p><!-- Snake Animation -->
-https://github.com/RITHYHONG/RITHYHONG/blob/output/github-contribution-grid-snake.svg
-
-</div>
