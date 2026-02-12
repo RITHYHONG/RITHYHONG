@@ -51,7 +51,7 @@
 <br>
 
 <!-- Tech Stack -->
-## **🛠️ Tech Stack**
+## Tech Stack
 <div align="left">
 
 **Frontend:** React, Vue.js, TypeScript, Tailwind CSS  
@@ -114,7 +114,7 @@
 <br>
 
 <!-- Connect Section with Animation -->
-## 📫 **Let's Connect!**
+## **Let's Connect!**
 
 <div align="center">
 
@@ -138,10 +138,6 @@
   </a>
 </p>
 
-<!-- Visitor Counter -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/RITHYHONG/count.svg" alt="Visitor Count" />
-</p>
 
 <!-- Developer Status (Fixed Code Block) -->
 <div align="center">
