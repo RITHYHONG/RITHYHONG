@@ -95,9 +95,9 @@
     <td align="center" width="33%">
       <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="80" height="80">
       <br>
-      <b>Full-Stack Mastery</b>
+      <b>DevOps Mastery</b>
       <br>
-      <sub>Deepen backend & DevOps skills</sub>
+      <sub>Deepen DevOps skills</sub>
     </td>
     <td align="center" width="33%">
       <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="80" height="80">
